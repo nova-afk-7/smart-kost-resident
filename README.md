@@ -1,0 +1,1 @@
+# smart-kost-resident
